@@ -1,5 +1,5 @@
 {
-    "name": "fpn/tag-bundle",
+    "name": "lexxpavlov/tag-bundle",
     "description": "FPN Tag Bundle",
     "keywords": ["tagging", "tag"],
     "type": "symfony-bundle",
